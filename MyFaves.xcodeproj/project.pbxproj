@@ -7,15 +7,36 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D494BCF8251031BB0092D3C3 /* toyota.png in Resources */ = {isa = PBXBuildFile; fileRef = D494BCEE251031BB0092D3C3 /* toyota.png */; };
+		D494BCF9251031BB0092D3C3 /* bmw.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCEF251031BB0092D3C3 /* bmw.jpeg */; };
+		D494BCFA251031BB0092D3C3 /* honda.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF0251031BB0092D3C3 /* honda.jpg */; };
+		D494BCFB251031BB0092D3C3 /* ford.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF1251031BB0092D3C3 /* ford.jpeg */; };
+		D494BCFC251031BB0092D3C3 /* jaguar.png in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF2251031BB0092D3C3 /* jaguar.png */; };
+		D494BCFD251031BB0092D3C3 /* lexus.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF3251031BB0092D3C3 /* lexus.jpg */; };
+		D494BCFE251031BB0092D3C3 /* chrysler.png in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF4251031BB0092D3C3 /* chrysler.png */; };
+		D494BCFF251031BB0092D3C3 /* kia.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF5251031BB0092D3C3 /* kia.jpeg */; };
+		D494BD00251031BB0092D3C3 /* chevy.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF6251031BB0092D3C3 /* chevy.jpeg */; };
+		D494BD01251031BB0092D3C3 /* audi.jpg in Resources */ = {isa = PBXBuildFile; fileRef = D494BCF7251031BB0092D3C3 /* audi.jpg */; };
 		D4FFA29B250FE93500343D14 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FFA29A250FE93500343D14 /* AppDelegate.swift */; };
 		D4FFA29D250FE93500343D14 /* MasterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FFA29C250FE93500343D14 /* MasterViewController.swift */; };
 		D4FFA29F250FE93500343D14 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4FFA29E250FE93500343D14 /* DetailViewController.swift */; };
 		D4FFA2A2250FE93500343D14 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4FFA2A0250FE93500343D14 /* Main.storyboard */; };
 		D4FFA2A4250FE93700343D14 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4FFA2A3250FE93700343D14 /* Assets.xcassets */; };
 		D4FFA2A7250FE93700343D14 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4FFA2A5250FE93700343D14 /* LaunchScreen.storyboard */; };
+		D4FFA2B0250FEB0D00343D14 /* WebKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D4FFA2AF250FEB0D00343D14 /* WebKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D494BCEE251031BB0092D3C3 /* toyota.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = toyota.png; path = ../../logos/toyota.png; sourceTree = "<group>"; };
+		D494BCEF251031BB0092D3C3 /* bmw.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = bmw.jpeg; path = ../../logos/bmw.jpeg; sourceTree = "<group>"; };
+		D494BCF0251031BB0092D3C3 /* honda.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = honda.jpg; path = ../../logos/honda.jpg; sourceTree = "<group>"; };
+		D494BCF1251031BB0092D3C3 /* ford.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ford.jpeg; path = ../../logos/ford.jpeg; sourceTree = "<group>"; };
+		D494BCF2251031BB0092D3C3 /* jaguar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = jaguar.png; path = ../../logos/jaguar.png; sourceTree = "<group>"; };
+		D494BCF3251031BB0092D3C3 /* lexus.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = lexus.jpg; path = ../../logos/lexus.jpg; sourceTree = "<group>"; };
+		D494BCF4251031BB0092D3C3 /* chrysler.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = chrysler.png; path = ../../logos/chrysler.png; sourceTree = "<group>"; };
+		D494BCF5251031BB0092D3C3 /* kia.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = kia.jpeg; path = ../../logos/kia.jpeg; sourceTree = "<group>"; };
+		D494BCF6251031BB0092D3C3 /* chevy.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = chevy.jpeg; path = ../../logos/chevy.jpeg; sourceTree = "<group>"; };
+		D494BCF7251031BB0092D3C3 /* audi.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = audi.jpg; path = ../../logos/audi.jpg; sourceTree = "<group>"; };
 		D4FFA297250FE93500343D14 /* MyFaves.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFaves.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4FFA29A250FE93500343D14 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4FFA29C250FE93500343D14 /* MasterViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MasterViewController.swift; sourceTree = "<group>"; };
@@ -24,6 +45,7 @@
 		D4FFA2A3250FE93700343D14 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4FFA2A6250FE93700343D14 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4FFA2A8250FE93700343D14 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4FFA2AF250FEB0D00343D14 /* WebKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WebKit.framework; path = System/Library/Frameworks/WebKit.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -31,6 +53,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D4FFA2B0250FEB0D00343D14 /* WebKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -40,8 +63,10 @@
 		D4FFA28E250FE93500343D14 = {
 			isa = PBXGroup;
 			children = (
+				D4FFA2B1250FEC5400343D14 /* images */,
 				D4FFA299250FE93500343D14 /* MyFaves */,
 				D4FFA298250FE93500343D14 /* Products */,
+				D4FFA2AE250FEB0C00343D14 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -65,6 +90,31 @@
 				D4FFA2A8250FE93700343D14 /* Info.plist */,
 			);
 			path = MyFaves;
+			sourceTree = "<group>";
+		};
+		D4FFA2AE250FEB0C00343D14 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D4FFA2AF250FEB0D00343D14 /* WebKit.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D4FFA2B1250FEC5400343D14 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				D494BCF7251031BB0092D3C3 /* audi.jpg */,
+				D494BCEF251031BB0092D3C3 /* bmw.jpeg */,
+				D494BCF6251031BB0092D3C3 /* chevy.jpeg */,
+				D494BCF4251031BB0092D3C3 /* chrysler.png */,
+				D494BCF1251031BB0092D3C3 /* ford.jpeg */,
+				D494BCF0251031BB0092D3C3 /* honda.jpg */,
+				D494BCF2251031BB0092D3C3 /* jaguar.png */,
+				D494BCF5251031BB0092D3C3 /* kia.jpeg */,
+				D494BCF3251031BB0092D3C3 /* lexus.jpg */,
+				D494BCEE251031BB0092D3C3 /* toyota.png */,
+			);
+			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,9 +175,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D494BD01251031BB0092D3C3 /* audi.jpg in Resources */,
+				D494BCFF251031BB0092D3C3 /* kia.jpeg in Resources */,
+				D494BD00251031BB0092D3C3 /* chevy.jpeg in Resources */,
+				D494BCF9251031BB0092D3C3 /* bmw.jpeg in Resources */,
 				D4FFA2A7250FE93700343D14 /* LaunchScreen.storyboard in Resources */,
+				D494BCFD251031BB0092D3C3 /* lexus.jpg in Resources */,
+				D494BCF8251031BB0092D3C3 /* toyota.png in Resources */,
 				D4FFA2A4250FE93700343D14 /* Assets.xcassets in Resources */,
+				D494BCFE251031BB0092D3C3 /* chrysler.png in Resources */,
+				D494BCFB251031BB0092D3C3 /* ford.jpeg in Resources */,
+				D494BCFA251031BB0092D3C3 /* honda.jpg in Resources */,
 				D4FFA2A2250FE93500343D14 /* Main.storyboard in Resources */,
+				D494BCFC251031BB0092D3C3 /* jaguar.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -295,7 +355,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFaves;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -312,7 +372,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = edu.rockvalleycollege.MyFaves;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
