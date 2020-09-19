@@ -36,14 +36,14 @@ class MasterViewController: UITableViewController {
         // 4) Add items to 2 arrays
         //Menus
         ListOfPhotos = [
-            UIImage(named: "chevy.jpeg")!,
-            UIImage(named: "ford.jpeg")!,
-            UIImage(named: "chrysler.png")!,
-            UIImage(named: "toyota.png")!,
+            UIImage(named: "chevy.jpg")!,
+            UIImage(named: "ford.png")!,
+            UIImage(named: "chrysler.jpg")!,
+            UIImage(named: "toyota.jpg")!,
             UIImage(named: "lexus.jpg")!,
-            UIImage(named: "bmw.jpeg")!,
-            UIImage(named: "honda.jpg")!,
-            UIImage(named: "kia.jpeg")!,
+            UIImage(named: "bmw.jpg")!,
+            UIImage(named: "honda.png")!,
+            UIImage(named: "kia.jpg")!,
             UIImage(named: "jaguar.png")!,
             UIImage(named: "audi.jpg")!,
             ]
